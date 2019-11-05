@@ -1,0 +1,79 @@
+[{
+        "id": "000",
+        "data-position": "0",
+        "employe-name": "Julia Harrington",
+        "employe-position": "art director",
+        "information-about": "Have you ever had a problem with a burned light? Thanks to the effort of Thomas Edison we no longer need to invent a light bulb. We just go to the store or our cupboard and pull one out and screw it in. When we are feeling so low and deep in the pits, this is when we need light to see our way through.",
+        "img-src": "img/team/000.jpg",
+        "social-link": {
+            "facebok": "#",
+            "linkedin": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "001",
+        "data-position": "1",
+        "employe-name": "Kyle Walker",
+        "employe-position": "designer",
+        "information-about": "When we are feeling so low and deep in the pits, this is when we need light to see our way through. Have you ever had a problem with a burned light? Thanks to the effort of Thomas Edison we no longer need to invent a light bulb. We just go to the store or our cupboard and pull one out and screw it in.",
+        "img-src": "img/team/001.jpg",
+        "social-link": {
+            "facebok": "#",
+            "linkedin": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "002",
+        "data-position": "2",
+        "employe-name": "Yarry Kane",
+        "employe-position": "office manager",
+        "information-about": "We just go to the store or our cupboard and pull one out and screw it in. When we are feeling so low and deep in the pits, this is when we need light to see our way through. Have you ever had a problem with a burned light? Thanks to the effort of Thomas Edison we no longer need to invent a light bulb.",
+        "img-src": "img/team/002.jpg",
+        "social-link": {
+            "facebok": "#",
+            "linkedin": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "003",
+        "data-position": "3",
+        "employe-name": "Marcus Rashford",
+        "employe-position": "art director",
+        "information-about": "Thomas Edison we no longer need to invent a light bulb. We just go to the store or our cupboard and pull one out and screw it in. When we are feeling so low and deep in the pits, this is when we need light to see our way through. Have you ever had a problem with a burned light? Thanks to the effort of.",
+        "img-src": "img/team/003.jpg",
+        "social-link": {
+            "facebok": "#",
+            "linkedin": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "004",
+        "data-position": "4",
+        "employe-name": "Fernando Torres",
+        "employe-position": "art director",
+        "information-about": "Light bulb. We just go to the store or our cupboard and pull one out and screw it in. When we are feeling so low and deep in the pits, this is when we need light to see our way through. Thomas Edison we no longer need to invent a. Have you ever had a problem with a burned light? Thanks to the effort of.",
+        "img-src": "img/team/004.jpg",
+        "social-link": {
+            "facebok": "#",
+            "linkedin": "#",
+            "twitter": "#"
+        }
+    },
+    {
+        "id": "005",
+        "data-position": "5",
+        "employe-name": "Emma Cahill",
+        "employe-position": "art director",
+        "information-about": "low and deep in the pits, this is when we need light to see our way through. Thomas Edison we no longer need to invent a. Light bulb. We just go to the store or our cupboard and pull one out and screw it in. When we are feeling so. Have you ever had a problem with a burned light? Thanks to.",
+        "img-src": "img/team/005.jpg",
+        "social-link": {
+            "facebok": "#",
+            "linkedin": "#",
+            "twitter": "#"
+        }
+    }
+]
